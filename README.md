@@ -4,7 +4,6 @@ I'm Zeynep, a 3rd-year Software Engineering student! 🚀
 
 ## 🌟 My Interests 
 - Data Science  
-- Machine Learning  
 - Embedded Systems  
 - Backend Development
 
