@@ -1,10 +1,6 @@
 ## Hi there 👋  
 I'm Zeynep, a 3rd-year Software Engineering student! 🚀
 
-<p align="center">
-  <img src="https://s4.ezgif.com/tmp/ezgif-4-f664638f3c.gif" alt="Welcome GIF">
-</p>
-
 ## 🌟 My Interests 
 <p align="center">
   - Data Science  
