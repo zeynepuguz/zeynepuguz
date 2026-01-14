@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm Zeynep, a 3rd-year Software Engineering student! 🚀
+I'm Zeynep, a 4th-year Software Engineering student! 🚀
 
 ## 🌟 My Interests 
 <p align="center">
