@@ -3,7 +3,10 @@
 I’m a **4th-year Software Engineering student** with a strong curiosity for how data, software, and systems come together to solve real-world problems. I enjoy learning by building, experimenting, and continuously improving my technical depth.
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+---
 ## 🌱 About Me
 
 * 🎓 Software Engineering student (senior year)
