@@ -1,13 +1,13 @@
 # Hi, I'm Zeynep 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480"/>
+</p>
+
 I’m a **4th-year Software Engineering student** with a strong curiosity for how data, software, and systems come together to solve real-world problems. I enjoy learning by building, experimenting, and continuously improving my technical depth.
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480"/>
-</p>
 
----
 ## 🌱 About Me
 
 * 🎓 Software Engineering student (senior year)
