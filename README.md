@@ -63,9 +63,15 @@ I enjoy learning about **space exploration** and **physics**, especially how the
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepuguz\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepuguz\&show_icons=true\&theme=radical\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepuguz\&layout=compact\&theme=radical\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zeynepuguz\&theme=radical\&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynepuguz\&theme=redical\&hide_border=true)
 
 ---
 
