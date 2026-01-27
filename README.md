@@ -4,8 +4,9 @@ I’m a **4th-year Software Engineering student** with a strong curiosity for ho
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480"/>
 </p>
+
 ---
 ## 🌱 About Me
 
