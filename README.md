@@ -1,8 +1,9 @@
 # Hi, I'm Zeynep 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460"/>
 </p>
+
 
 I’m a **4th-year Software Engineering student** with a strong curiosity for how data, software, and systems come together to solve real-world problems. I enjoy learning by building, experimenting, and continuously improving my technical depth.
 
