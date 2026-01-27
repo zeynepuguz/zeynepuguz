@@ -1,7 +1,7 @@
 # Hi, I'm Zeynep 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="420" />
 </p>
 
 
