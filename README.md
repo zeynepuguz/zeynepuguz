@@ -90,3 +90,61 @@ Machine Learning        ██████████████░░░░�
 Generative AI           ████████████░░░░░░░░ 60%
 Backend & Deployment    ██████████░░░░░░░░░░ 50%
 Data Engineering        ████████░░░░░░░░░░░░ 40%
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepuguz&show_icons=true&theme=radical&hide_border=true" alt="Zeynep GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepuguz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeynepuguz&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeynepuguz&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p>
+  <a href="https://zeynepuguz.github.io/zeynep-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=flat&logo=google-chrome&logoColor=white"/>
+  </a>
+  <b>Portfolio:</b> https://zeynepuguz.github.io/zeynep-portfolio/
+</p>
+
+<p>
+  <a href="https://github.com/zeynepuguz">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <b>GitHub:</b> https://github.com/zeynepuguz
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/zeynep-uğuz">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <b>LinkedIn:</b> https://www.linkedin.com/in/zeynep-uğuz
+</p>
+
+<p>
+  <a href="https://www.kaggle.com/zeynepuuz">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+  <b>Kaggle:</b> https://www.kaggle.com/zeynepuuz
+</p>
+
+<p>
+  <a href="https://medium.com/@zeynepuguz">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
+  </a>
+  <b>Medium:</b> https://medium.com/@zeynepuguz
+</p>
+
+---
