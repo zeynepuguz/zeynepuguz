@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Specialty-RAG%20Systems-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interest-Generative%20AI-9cf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-ML%20%7C%20GenAI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-LLM%20Systems-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-FastAPI%20%7C%20Docker-9cf?style=for-the-badge"/>
 </p>
 
 ---
@@ -15,10 +15,12 @@
 ## 🚀 About Me
 
 🎓 Senior Software Engineering Student  
-🤖 Building Machine Learning & Generative AI systems  
+🤖 Focused on Machine Learning & Generative AI  
 🔎 Hands-on experience with RAG architectures  
-⚙️ Turning models into deployable applications  
-📦 Interested in production-ready AI systems  
+⚙️ Building end-to-end AI systems  
+📦 Interested in production-ready AI applications  
+
+I enjoy turning models into deployable systems — not just training them.
 
 ---
 
@@ -36,38 +38,36 @@
 
 ## 🛠 Tech Stack
 
-### 🧑‍💻 Languages
+### 👩‍💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
 ### 🤖 Machine Learning & AI
 <p>
+<img src="https://skillicons.dev/icons?i=scikitlearn" />
 <img src="https://skillicons.dev/icons?i=pytorch" />
 <img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=scikitlearn" />
 </p>
 
 - XGBoost  
 - LightGBM  
-- SHAP  
+- Feature Engineering  
+- Model Evaluation  
 - Hyperparameter Optimization  
+- SHAP (Model Interpretability)  
 
 ---
 
-### 🧠 Generative AI
-<p>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-blue"/>
-<img src="https://img.shields.io/badge/OpenAI-API-green"/>
-</p>
-
-- RAG Architectures  
-- LLM-based Q&A Systems  
+### 🧠 Generative AI & LLMs
+- RAG Systems  
+- LangChain  
+- FAISS (Vector Search)  
+- OpenAI API  
 - Transformers (HuggingFace)  
 
 ---
@@ -81,11 +81,13 @@
 <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
+- End-to-End ML Pipelines  
+- REST API Development  
+
 ---
 
 ## 📈 Skill Focus Distribution
 
-```text
 Machine Learning        ██████████████░░░░░░ 70%
 Generative AI           ████████████░░░░░░░░ 60%
 Backend & Deployment    ██████████░░░░░░░░░░ 50%
@@ -93,10 +95,23 @@ Data Engineering        ████████░░░░░░░░░░�
 
 ---
 
+## 🔬 Selected Project Focus
+
+📄 **Document AI Assistant**  
+RAG + FAISS + FastAPI + Docker  
+
+🤖 **LLM-Powered Q&A Systems**  
+Embedding + Retrieval + Prompt Orchestration  
+
+📊 **End-to-End ML Pipelines**  
+Data → Model → Evaluation → Deployment  
+
+---
+
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepuguz&show_icons=true&theme=radical&hide_border=true" alt="Zeynep GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepuguz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepuguz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -110,41 +125,44 @@ Data Engineering        ████████░░░░░░░░░░�
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 <p>
-  <a href="https://zeynepuguz.github.io/zeynep-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-  <b>Portfolio:</b> https://zeynepuguz.github.io/zeynep-portfolio/
+<a href="https://zeynepuguz.github.io/zeynep-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=flat&logo=google-chrome&logoColor=white"/>
+</a>
+<b>Portfolio:</b> https://zeynepuguz.github.io/zeynep-portfolio/
 </p>
 
 <p>
-  <a href="https://github.com/zeynepuguz">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <b>GitHub:</b> https://github.com/zeynepuguz
+<a href="https://github.com/zeynepuguz">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<b>GitHub:</b> https://github.com/zeynepuguz
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/zeynep-uğuz">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <b>LinkedIn:</b> https://www.linkedin.com/in/zeynep-uğuz
+<a href="https://www.linkedin.com/in/zeynep-uğuz">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<b>LinkedIn:</b> https://www.linkedin.com/in/zeynep-uğuz
 </p>
 
 <p>
-  <a href="https://www.kaggle.com/zeynepuuz">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-  </a>
-  <b>Kaggle:</b> https://www.kaggle.com/zeynepuuz
+<a href="https://www.kaggle.com/zeynepuuz">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+</a>
+<b>Kaggle:</b> https://www.kaggle.com/zeynepuuz
 </p>
 
 <p>
-  <a href="https://medium.com/@zeynepuguz">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
-  </a>
-  <b>Medium:</b> https://medium.com/@zeynepuguz
+<a href="https://medium.com/@zeynepuguz">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
+</a>
+<b>Medium:</b> https://medium.com/@zeynepuguz
 </p>
 
 ---
+
+⭐ Building intelligent systems — from experimentation to deployment.
+
