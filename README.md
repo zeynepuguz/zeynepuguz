@@ -4,87 +4,94 @@
   <img src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="420" />
 </p>
 
-
-I’m a **4th-year Software Engineering student** with a strong curiosity for how data, software, and systems come together to solve real-world problems. I enjoy learning by building, experimenting, and continuously improving my technical depth.
+I’m a **Senior Software Engineering student** focused on building practical AI systems.  
+My main interests lie in **Machine Learning, Generative AI, and RAG-based LLM systems** — especially turning models into deployable, real-world applications.
 
 ---
 
 ## 🌱 About Me
 
-* 🎓 Software Engineering student (senior year)
-* 📊 Interested in **Data Science**, **Machine Learning**, and **Applied AI**
-* ⚙️ Exploring **Embedded Systems** alongside software-focused projects
-* 🧠 I like understanding *why* things work, not just *how*
-* 🚀 Motivated by projects with practical and measurable impact
+- 🎓 4th-year Software Engineering student  
+- 🤖 Focused on Machine Learning & Generative AI  
+- 🔎 Hands-on experience with RAG architectures  
+- ⚙️ Interested in building end-to-end AI systems  
+- 🚀 I enjoy shipping working systems, not just training models  
 
 ---
 
-## 🔭 What I’m Currently Learning
+## 🔭 Currently Working On
 
-* Data preprocessing, EDA, and feature engineering in **Python**
-* Machine Learning & Deep Learning fundamentals
-* Turkish **NLP** workflows and text-based ML problems
-* Embedded systems basics and low-level programming concepts
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-Python, Java, C, C++, C#, PHP, JavaScript, HTML, CSS
-
-**Data & AI**
-Machine Learning, Deep Learning, NLP, Data Cleaning, EDA, Feature Engineering
-
-**Libraries & Tools**
-scikit-learn, TensorFlow / Keras, PyTorch, Pandas, NumPy, Matplotlib, Zemberek
-
-**Other**
-Git & GitHub, Jupyter Notebook, VS Code, SQL
+- Retrieval-Augmented Generation (RAG) systems  
+- LLM-based document assistants  
+- FastAPI-based ML services  
+- Model evaluation & experimentation workflows  
+- Improving MLOps & deployment skills (Docker, MLflow)  
 
 ---
 
-## 👯 I’m Open to Collaborating On
+## 🛠 Tech Stack
 
-* Data Science or Machine Learning projects
-* NLP-focused applications (especially Turkish text)
-* Backend-oriented or data-driven systems
-* Beginner-friendly Embedded Systems projects
+### Languages
+- Python  
+- SQL  
+
+### Machine Learning & AI
+- Scikit-learn  
+- XGBoost  
+- LightGBM  
+- PyTorch  
+- TensorFlow  
+- Feature Engineering  
+- Model Evaluation & Hyperparameter Optimization  
+- SHAP (Model Interpretability)  
+
+### Generative AI & LLMs
+- RAG Systems  
+- LangChain  
+- FAISS (Vector Search)  
+- OpenAI API  
+- Transformers (HuggingFace)  
+
+### Backend & Deployment
+- FastAPI  
+- REST API Development  
+- Docker  
+- End-to-End ML Pipelines  
+
+### Tools
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- Linux  
 
 ---
 
-## 💬 You Can Ask Me About
+## 🚀 Selected Project Focus
 
-* Getting started with **Data Science & ML**
-* Python-based data workflows
-* Turkish NLP preprocessing and sentiment analysis
-* Software Engineering student life & learning paths
-
----
-
-## ⚡ Fun Fact
-
-I enjoy learning about **space exploration** and **physics**, especially how theoretical concepts turn into real engineering systems 🌌
+- 📄 Document-based AI Assistant (RAG + Vector DB + FastAPI)  
+- 🤖 LLM-powered Q&A systems  
+- 📊 Machine Learning pipelines from preprocessing to deployment  
+- 🇹🇷 Turkish NLP experimentation  
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepuguz\&show_icons=true\&theme=radical\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeynepuguz&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepuguz\&layout=compact\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepuguz&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zeynepuguz\&theme=radical\&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynepuguz\&theme=redical\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zeynepuguz&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
-* **GitHub:** [https://github.com/zeynepuguz](https://github.com/zeynepuguz)
-* **LinkedIn:** [https://www.linkedin.com/in/zeynep-uğuz](https://www.linkedin.com/in/zeynep-uğuz)
-* **Kaggle:** [https://www.kaggle.com/zeynepuuz](https://www.kaggle.com/zeynepuuz)
-* **Medium:** [https://medium.com/@zeynepuguz](https://medium.com/@zeynepuguz)
+- GitHub: https://github.com/zeynepuguz  
+- LinkedIn: https://www.linkedin.com/in/zeynep-uğuz  
+- Kaggle: https://www.kaggle.com/zeynepuuz  
+- Medium: https://medium.com/@zeynepuguz  
 
-⭐ *Always learning, always building.*
+---
+
+⭐ Building intelligent systems, not just models.
