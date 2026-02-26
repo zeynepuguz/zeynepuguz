@@ -87,12 +87,12 @@ I enjoy turning models into deployable systems — not just training them.
 ---
 
 ## 📈 Skill Focus Distribution
-
+```text
 Machine Learning        ██████████████░░░░░░ 70%
 Generative AI           ████████████░░░░░░░░ 60%
 Backend & Deployment    ██████████░░░░░░░░░░ 50%
 Data Engineering        ████████░░░░░░░░░░░░ 40%
-
+```
 ---
 
 ## 🔬 Selected Project Focus
@@ -131,35 +131,35 @@ Data → Model → Evaluation → Deployment
 <a href="https://zeynepuguz.github.io/zeynep-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Website-6C63FF?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
-<b>Portfolio:</b> https://zeynepuguz.github.io/zeynep-portfolio/
+<b></b> https://zeynepuguz.github.io/zeynep-portfolio/
 </p>
 
 <p>
 <a href="https://github.com/zeynepuguz">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<b>GitHub:</b> https://github.com/zeynepuguz
+<b></b> https://github.com/zeynepuguz
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/zeynep-uğuz">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<b>LinkedIn:</b> https://www.linkedin.com/in/zeynep-uğuz
+<b></b> https://www.linkedin.com/in/zeynep-uğuz
 </p>
 
 <p>
 <a href="https://www.kaggle.com/zeynepuuz">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
 </a>
-<b>Kaggle:</b> https://www.kaggle.com/zeynepuuz
+<b></b> https://www.kaggle.com/zeynepuuz
 </p>
 
 <p>
 <a href="https://medium.com/@zeynepuguz">
   <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/>
 </a>
-<b>Medium:</b> https://medium.com/@zeynepuguz
+<b></b> https://medium.com/@zeynepuguz
 </p>
 
 ---
